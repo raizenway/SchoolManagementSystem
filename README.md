@@ -15,8 +15,8 @@ Sistem manajemen sekolah sederhana untuk penyelesaian tugas PKL NTI.
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourname/school-management-system.git
-cd school-management-system
+git clone https://github.com/raizenway/SchoolManagementSystem
+cd SchoolManagementSystem
 ```
 
 ### 2. Jalankan Docker App
