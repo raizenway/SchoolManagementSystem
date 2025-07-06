@@ -15,7 +15,7 @@ Sistem manajemen sekolah sederhana untuk penyelesaian tugas PKL NTI.
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourname/school-management-system.git
+git clone https://github.com/raizenway/SchoolManagementSystem
 cd school-management-system
 ```
 
