@@ -19,35 +19,17 @@ git clone https://github.com/yourname/school-management-system.git
 cd school-management-system
 ```
 
-### 2. Setup `.env`
-
-Buat file `.env` di root folder dan isi koneksi PostgreSQL:
-
-```env
-DB_HOST=your-db-host
-DB_PORT=5432
-DB_NAME=your-db-name
-DB_USER=your-db-user
-DB_PASS=your-db-password
-```
-
-### 3. Jalankan Migrasi Database
+### 2. Jalankan Docker App
 
 ```bash
-dotnet ef database update
-```
 
-> Pastikan sudah install .NET 8 SDK dan EF Tools
+docker-compse up --build
 
-### 4. Jalankan Aplikasi
-
-```bash
-dotnet run
 ```
 
 Akses Swagger di:
 ```
-http://localhost:{port}/swagger
+http://localhost:5000/swagger
 ```
 
 ---
@@ -135,17 +117,9 @@ DELETE /api/Enrollment?studentId=4&classId=1
 
 ---
 
-## 🧱 Database Setup
-
-- Menggunakan PostgreSQL (Neon/Supabase)
-- Gunakan `.env` untuk konfigurasi database
-- EF Core otomatis membuat tabel saat `dotnet ef database update` dijalankan
-
----
-
 ## 🧪 Swagger Testing
 
 Swagger UI tersedia di:
 ```
-http://localhost:{PORT}/swagger
+http://localhost:5000/swagger
 ```

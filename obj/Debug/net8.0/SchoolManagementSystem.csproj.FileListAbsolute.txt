@@ -146,3 +146,4 @@ D:\Politeknik Negeri Bandung\B-TIF4 22\PKL\Joki Farrel\SchoolManagementSystem\ob
 D:\Politeknik Negeri Bandung\B-TIF4 22\PKL\Joki Farrel\SchoolManagementSystem\obj\Debug\net8.0\SchoolManagementSystem.pdb
 D:\Politeknik Negeri Bandung\B-TIF4 22\PKL\Joki Farrel\SchoolManagementSystem\obj\Debug\net8.0\SchoolManagementSystem.genruntimeconfig.cache
 D:\Politeknik Negeri Bandung\B-TIF4 22\PKL\Joki Farrel\SchoolManagementSystem\obj\Debug\net8.0\ref\SchoolManagementSystem.dll
+D:\Politeknik Negeri Bandung\B-TIF4 22\PKL\Joki Farrel\SchoolManagementSystem\obj\Debug\net8.0\SchoolManagementSystem.sourcelink.json
